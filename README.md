@@ -1,4 +1,4 @@
-#№ 👋 Hello everyone! 🌟
+## 👋 Hello everyone! 🌟
 
 🚀 I am a backend developer specializing in Python, working with frameworks like **Django**, **FastAPI**, and **Flask**. I also have experience with databases (such as **PostgreSQL**, **MySQL**  and others), and I’ve developed **Telegram bots** and **APIs**. 
 
