@@ -1,6 +1,6 @@
 ## 👋 Hello everyone! 🌟
 
-🚀 I am a backend developer specializing in Python, working with frameworks like **Django**, **FastAPI**, and **Flask**. I also have experience with databases (such as **PostgreSQL**, **MySQL**  and others), and I’ve developed **Telegram bots** and **APIs**. 
+🚀 I am a backend developer specializing in Python, working with frameworks like **Django**, **FastAPI**, and **Flask**. I also have experience with databases (such as **PostgreSQL**, **SQLite**  and others), and I’ve developed **Telegram bots** and **APIs**. 
 
 🔧 With an engineering background, I have previously worked as a design engineer, which has equipped me with a strong technical foundation.
 
